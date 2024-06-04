@@ -1,4 +1,4 @@
-[id="starknet_architecture_overview"]
+[id="sequencers"]
 = Sequencers
 
 Before diving in, make sure to check out the Architecture chapter for a quick exploration of Starknet’s sequencers, provers, and nodes.
